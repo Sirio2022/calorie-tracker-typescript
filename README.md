@@ -1,5 +1,8 @@
 # Calorie Tracker App
 
+![Captura de pantalla 2024-07-23 182053](https://github.com/user-attachments/assets/ed9bcc04-0328-4907-a823-a160d803deb3)
+
+
 ## Descripción
 
 Calorie Tracker es una aplicación diseñada para ayudarte a seguir tu consumo de calorías diario de manera fácil y eficiente. Con esta aplicación, puedes registrar los alimentos que consumes a lo largo del día y monitorear tu progreso hacia tus objetivos de salud y fitness.
